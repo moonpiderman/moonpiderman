@@ -1,5 +1,5 @@
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=MOONPIDERMAN&fontSize=90" /> </p>
 
-# <p align="center">🧑‍💻 MOONPIDERMAN 🧑‍💻</p>
 ## <p align="center"> 🛠 Tech Stack 🛠 </p>
 ### <p align="center"> Techs that I've used at least once </p>
 <p align="center"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/JSON-8BC0D0?style=flat-square&logo=JSON&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> </p>
@@ -8,6 +8,6 @@
 ##### <p align="center">⚙️.  IDE ⚙️</p>
 <p align="center"> <img src="https://img.shields.io/badge/Pycharm-A8E00F?style=flat-square&logo=Pycharm&logoColor=white"/></a> <img src="https://img.shields.io/badge/IntelliJ IDEA-D32D27?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Clion-1AB7EA?style=flat-square&logo=Clion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Data%20Grip-4949E4?style=flat-square&logo=Data%20grip&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a> </p>
 
-![Moonpiderman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Moonpiderman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOONPIDERMAN&show_icons=true&theme=vue-dark)
 
 #### <p align="left"> 📜      [Velog](https://velog.io/moonpiderman)</p>
