@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=MOONPIDERMAN&fontSize=90" /> </p>
+# <p align="center"> 🧑‍💻 MOONPIDERMAN 🧑‍💻 </p>
 
 ## <p align="center"> 🛠 Tech Stack 🛠 </p>
 ### <p align="center"> Techs that I've used at least once </p>
@@ -6,8 +6,10 @@
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> </p>
 
 ##### <p align="center">⚙️.  IDE ⚙️</p>
-<p align="center"> <img src="https://img.shields.io/badge/Pycharm-A8E00F?style=flat-square&logo=Pycharm&logoColor=white"/></a> <img src="https://img.shields.io/badge/IntelliJ IDEA-D32D27?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Clion-1AB7EA?style=flat-square&logo=Clion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Data%20Grip-4949E4?style=flat-square&logo=Data%20grip&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Pycharm-A8E00F?style=flat-square&logo=Pycharm&logoColor=white"/></a> <img src="https://img.shields.io/badge/IntelliJ IDEA-D32D27?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Clion-1AB7EA?style=flat-square&logo=Clion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a> </p>
+
 
 ![Moonpiderman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOONPIDERMAN&show_icons=true&theme=vue-dark)
+
 
 #### <p align="left"> 📜      [Velog](https://velog.io/moonpiderman)</p>
