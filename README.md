@@ -1,5 +1,5 @@
-### 🧑‍💻 Moonpiderman
-### 🧑‍💻 [My Velog](https://velog.io/@moonpiderman)
+### <center>🧑‍💻 Moonpiderman 🧑‍💻</center>
+### <center>🧑‍💻 [Moonpiderman's Velog](https://velog.io/@moonpiderman) 🧑‍💻</center>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
