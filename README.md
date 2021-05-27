@@ -1,5 +1,5 @@
 # <p align="center"> 🧑‍💻 MOONPIDERMAN 🧑‍💻 </p>
-#### <p align="center">📌      [Velog](https://velog.io/moonpiderman)</p>
+#### <p align="center">📌      [Velog](https://velog.io/@moonpiderman)</p>
 
 ## <p align="center"> 🛠 Tech Stack 🛠 </p>
 ### <p align="center"> Techs that I've used at least once </p>
